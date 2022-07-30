@@ -1,0 +1,46 @@
+div {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #181818;
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 7px;
+    text-decoration: none;
+}
+
+#big_div {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid red;
+    border-radius: 15px;
+}
+
+body {
+    background-color: #181818
+} 
+
+h1 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    color:aqua;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    color:aqua;
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+}
+
+img {
+    align-items: right;
+}

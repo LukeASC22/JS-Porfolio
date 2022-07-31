@@ -25,6 +25,12 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-size: 30px;
+    color: red;
+    text-align: left;
+}
+
 h3 {
     font-size: 20px;
     color:aqua;
@@ -38,6 +44,16 @@ h4 {
 }
 
 ul {
+    text-align: left;
+}
+
+ul2 {
+    color: aqua;
+    text-align: center;
+}
+
+ul3 {
+    color: aqua;
     text-align: left;
 }
 

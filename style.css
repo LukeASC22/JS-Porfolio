@@ -27,7 +27,7 @@ h1 {
 
 h2 {
     font-size: 30px;
-    color: red;
+    color: aqua;
     text-align: left;
 }
 
@@ -44,16 +44,17 @@ h4 {
 }
 
 ul {
-    text-align: left;
-}
-
-ul2 {
     color: aqua;
     text-align: center;
 }
 
+ul2 {
+    color: red;
+    text-align: left;
+}
+
 ul3 {
-    color: aqua;
+    color: red;
     text-align: left;
 }
 
